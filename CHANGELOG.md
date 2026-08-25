@@ -1,5 +1,11 @@
 # Changelog
 
+## [8.4.0](https://github.com/mediacms-io/mediacms/compare/v8.3.5...v8.4.0) (2026-08-25)
+
+### Features
+
+* trigger release ([6efb9a4](https://github.com/mediacms-io/mediacms/commit/6efb9a494a8c0dcdf2264f4adc0ff49b892417ea))
+
 ## [8.3.5](https://github.com/mediacms-io/mediacms/compare/v8.3.4...v8.3.5) (2026-08-25)
 
 ### Bug Fixes
